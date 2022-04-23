@@ -6,6 +6,7 @@ Carbono is a simple and easy to use tool for creating and managing email templat
 
 ## TODO
 
+- [x] Create base elements
 - [ ] Generate element tree
 - [ ] Render element tree
 - [ ] Increment element tree and re-render
